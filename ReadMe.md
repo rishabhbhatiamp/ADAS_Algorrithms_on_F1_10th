@@ -42,6 +42,7 @@ For this activity, an initial sub-task of implementing sensor signal processing 
  - Implementing Exponential Filter
  - PID Implementation
  
+
 <p align = "center">
 <img src="https://github.com/prateeks97/ADAS_Algorrithms_on_F1_10th/blob/master/Adaptive%20Cruise%20Control%20and%20Autonomous%20Lane%20Keeping/images/lane_keeping_logic.png"  width="700"  height="200"  />
 </p>
